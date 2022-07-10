@@ -8,6 +8,14 @@ The `valleys` theme is an extension of VS Code's default `Dark+` colour theme an
 
 ## Installation
 
+### Locally
+
+```bash
+code --install-extension build/valleys-0.0.1.vsix
+```
+
+### Through the Marketplace
+
 - Open the "**Extensions**" sidebar in VS Code
 - Search for `valleys`
 - Select "**valleys**" by ellsphillips and click "**Install**"
