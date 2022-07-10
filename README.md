@@ -2,7 +2,7 @@
 
 ## Motivation
 
-The `valleys` theme is an extension of VS Code's default `Dark+` colour theme and crafted by an experienced software developer, particularly in Python.
+The [valleys](https://marketplace.visualstudio.com/items?itemName=ellsphillips.valleys) theme is an extension of VS Code's default `Dark+` colour theme, crafted by an software developer with particular experience in Python.
 
 `valleys` exploits VS Code's ability to effectively render syntax highlighting with hand-picked colours and styling rules to better the object-oriented programming experience.
 

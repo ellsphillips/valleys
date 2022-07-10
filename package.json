@@ -1,6 +1,7 @@
 {
   "name": "valleys",
   "displayName": "valleys theme",
+  "publisher": "ellsphillips",
   "description": "An extension of Visual Studio Code's default Dark+ colour theme.",
   "version": "0.0.1",
   "engines": {
