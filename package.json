@@ -1,0 +1,39 @@
+{
+  "name": "valleys",
+  "displayName": "valleys theme",
+  "description": "An extension of Visual Studio Code's default Dark+ colour theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ellsphillips/valleys"
+  },
+  "galleryBanner": {
+    "color": "4EC9B0",
+    "theme": "dark"
+  },
+  "icon": "img/icon/valleys.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark+",
+    "vscode",
+    "dark theme",
+    "extension",
+    "python",
+    "vivid",
+    "custom"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "valleys",
+        "uiTheme": "vs-dark",
+        "path": "./themes/valleys-color-theme.json"
+      }
+    ]
+  }
+}
